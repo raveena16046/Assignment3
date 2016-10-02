@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="play_game_button">Play Game</string>
+    <string name="high_score_button">High Scores</string>
+    <string name="instructions_button">Instructions</string>
+    <string name="title_activity_instruction">InstructionActivity</string>
+    <string name="next_button">NEXT</string>
+    <string name="yes_button">YES</string>
+    <string name="no_button">NO</string>
+    <string name="title_activity_instructions">InstructionsActivity</string>
+    <string name="instruction">Instructions</string>
+    <string name="shared_preference_filename">com.example.anuj.quizapp.highscore</string>
+    <string name="high_score">HighScore</string>
+    <string name="saved_high_score_default">0</string>
+    <string name="title_activity_high_score">HighScoreActivity</string>
+    <string name="clear_all_button"> CLEAR ALL </string>
+    <string name="save">Save Question</string>
+    <string name="take_screenshot">Save Answer</string>
+</resources>
